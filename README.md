@@ -30,6 +30,11 @@ So here we'll have PowerToys do the key translation. Click the left Select butto
 
 ![Screenshot 2024-07-21 184028](https://github.com/user-attachments/assets/8f445738-d0ce-462e-9716-d137862206a0)
 
+The key I needed to remap is the backtick key, which is the default character that the XK03 will output when pressed without any of the combination keys to change it to another one. So that was easy to get into that dialog box. I clicked ok and the first section looked like this.
+
+![Screenshot 2024-07-21 184625](https://github.com/user-attachments/assets/ea79f76c-752e-4a8b-9e24-7ef66fa73285)
+
+
 
 
 
