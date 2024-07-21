@@ -22,4 +22,10 @@ For Keyboard Manager to do anything, we need to enable it. Slide the toggle to t
 
 ![Screenshot 2024-07-21 183330](https://github.com/user-attachments/assets/b89e56f7-7bab-4693-b0d3-8ba409d58830)
 
+Now the meat and potatoes to this whole workaround is the Remap a Key section. You'll want to click on it to get things started.
+
+![Screenshot 2024-07-21 183700](https://github.com/user-attachments/assets/e5a19e43-f5cc-499d-a48f-9687a44b84a6)
+
+
+
 
