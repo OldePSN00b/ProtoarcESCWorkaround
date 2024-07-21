@@ -18,3 +18,8 @@ Now PowerToys does a lot of pretty freaking amazing things but the section we're
 
 ![Screenshot 2024-07-21 183109](https://github.com/user-attachments/assets/c5ae3614-0720-48d2-8570-cfa235dea255)
 
+For Keyboard Manager to do anything, we need to enable it. Slide the toggle to the right and that'll get this party started!
+
+![Screenshot 2024-07-21 183330](https://github.com/user-attachments/assets/b89e56f7-7bab-4693-b0d3-8ba409d58830)
+
+
