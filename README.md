@@ -26,6 +26,14 @@ Now the meat and potatoes to this whole workaround is the Remap a Key section. Y
 
 ![Screenshot 2024-07-21 183700](https://github.com/user-attachments/assets/e5a19e43-f5cc-499d-a48f-9687a44b84a6)
 
+So here we'll have PowerToys do the key translation. Click the left Select button, it'll pop up a dialog that lets you define the key you want to remap. You'll get this dialog box.
+
+![Screenshot 2024-07-21 184028](https://github.com/user-attachments/assets/8f445738-d0ce-462e-9716-d137862206a0)
+
+
+
+
+
 
 
 
