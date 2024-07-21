@@ -3,7 +3,7 @@ Do you have the ProtoArc XK03 Bluetooth keyboard and play games? Well, I do. I'v
 
 What you'll need:
 
-One of those bluetooth wireless keyboards (Using the ProtoArc XK03 myself but this method should work with most things)
+One of those bluetooth wireless keyboards (Using the ProtoArc XK03, https://www.protoarc.com/products/xk03-foldable-keyboard, myself but this method should work with most things)
 
 Microsoft PowerToys (As of this guide, current version is 0.82.1. Check here for your preferred installed method https://learn.microsoft.com/en-us/windows/powertoys/install)
 
