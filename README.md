@@ -14,3 +14,7 @@ First things first, install Microsoft PowerToys as it does all the heavy lifting
 
 ![Screenshot 2024-07-21 182825](https://github.com/user-attachments/assets/572d3939-dba7-4a8b-8821-76cc83d170b7)
 
+Now PowerToys does a lot of pretty freaking amazing things but the section we're looking for to make this workaround happen is called Keyboard Manager.
+
+![Screenshot 2024-07-21 183109](https://github.com/user-attachments/assets/c5ae3614-0720-48d2-8570-cfa235dea255)
+
