@@ -9,4 +9,8 @@ Microsoft PowerToys (As of this guide, current version is 0.82.1. Check here for
 
 I'll preface this set of directions with YMMV, I'm doing this on a Lenovo Legion Go but this should work generally on any Windows 10/11 machine.
 
+First things first, install Microsoft PowerToys as it does all the heavy lifting for this workaround and launch it from the lovely icon that looks like:
+
+
+![Screenshot 2024-07-21 182825](https://github.com/user-attachments/assets/572d3939-dba7-4a8b-8821-76cc83d170b7)
 
