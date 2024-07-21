@@ -7,6 +7,6 @@ One of those bluetooth wireless keyboards (Using the ProtoArc XK03, https://www.
 
 Microsoft PowerToys (As of this guide, current version is 0.82.1. Check here for your preferred installed method https://learn.microsoft.com/en-us/windows/powertoys/install)
 
-
+I'll preface this set of directions with YMMV, I'm doing this on a Lenovo Legion Go but this should work generally on any Windows 10/11 machine.
 
 
