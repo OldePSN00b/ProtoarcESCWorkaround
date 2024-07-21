@@ -35,7 +35,7 @@ The key I needed to remap is the backtick key, which is the default character th
 ![Screenshot 2024-07-21 184625](https://github.com/user-attachments/assets/ea79f76c-752e-4a8b-9e24-7ef66fa73285)
 
 We want PowerToys to send an ESC key. We'll leave the pulldown on Send Key/Shortcut and click the Select button. Now,
-for me, this is where it got complicated. In order for me to hit ESC on my XK03, i need to press FN+Shift+ESC to get the character to appear. If you attempt to do this in that dialog box, it will input both the Shift key and ESC, which is not what we want. So there are two ways around this, you can use another wired/wireless keyboard to just get the ESC key OR you can use Microsoft's virtual keyboard.
+for me, this is where it got complicated. In order for me to hit ESC on my XK03, i need to press FN+Shift+ESC to get the character to appear. If you attempt to do this in that dialog box, it will input both the Shift key and ESC, which is not what we want. So there are two ways around this, you can use another wired/wireless keyboard to just get the ESC key OR you can use Windows On Screen Keyboard (Win+Ctrl+O).
 
 
 
