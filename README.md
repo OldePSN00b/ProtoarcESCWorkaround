@@ -39,6 +39,9 @@ for me, this is where it got complicated. In order for me to hit ESC on my XK03,
 
 ![Screenshot 2024-07-21 184830](https://github.com/user-attachments/assets/23e2b30c-eb59-4605-bd75-8a0806606a18)
 
+The entire remapped key section should look like this, if it does, click the OK button in the upper right of the screen.
+
+![Screenshot 2024-07-21 190301](https://github.com/user-attachments/assets/20865b61-fd5d-4b5c-80e7-302c3c737df1)
 
 
 
