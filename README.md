@@ -43,6 +43,13 @@ The entire remapped key section should look like this, if it does, click the OK 
 
 ![Screenshot 2024-07-21 190301](https://github.com/user-attachments/assets/20865b61-fd5d-4b5c-80e7-302c3c737df1)
 
+The one final step is that this fix doesn't seem to work when running PowerToys as a User, it needs to run with Administrative privileges. In PowerToys, we need to click the General gear near the top.
+
+![Screenshot 2024-07-21 190631](https://github.com/user-attachments/assets/469c1923-f019-4323-ad3c-4cc51c76d439)
+
+
+
+
 
 
 
