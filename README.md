@@ -47,6 +47,9 @@ The one final step is that this fix doesn't seem to work when running PowerToys 
 
 ![Screenshot 2024-07-21 190631](https://github.com/user-attachments/assets/469c1923-f019-4323-ad3c-4cc51c76d439)
 
+In the window that comes up, note the Restart PowerToys as Administrator button. It should be clickable but it's greyed out in this screenshot because I use it already. Click this button and it should restart PowerToys and be running as Admin and greyed out.
+
+![Screenshot 2024-07-21 190657](https://github.com/user-attachments/assets/c749c176-11bf-4f84-8ecc-191da7cdeb73)
 
 
 
