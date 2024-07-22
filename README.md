@@ -51,6 +51,10 @@ In the window that comes up, note the Restart PowerToys as Administrator button.
 
 ![Screenshot 2024-07-21 190657](https://github.com/user-attachments/assets/c749c176-11bf-4f84-8ecc-191da7cdeb73)
 
+After all that, with PowerToys running i was able to effectively use the ESC key without a keycombination on my XK03. If I need to use the backtick for something, that's another story but you can turn Keyboard Manager off with the toggle if not gaming. 
+
+Hopefully this helped someone and happy gaming!
+
 
 
 
